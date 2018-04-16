@@ -1,0 +1,30 @@
+.topbar{
+    background: #EE2E24;
+}
+.topbar ul li .nav-link{
+    color: #ffffff;
+    font-weight: bold;
+}
+.top-icon{
+    font-size: 1.5em;
+}
+.sb-card{
+    font-size: 5em;
+    color: blue;
+}
+.sb-navbar ul li a{
+    color: #64676d;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+}
+.sb-navbar ul li a:hover{
+    color: red;
+
+}
+#inlistService{
+    color: blue;
+}
+#inlistService:hover{
+    color:#ffffff;
+}
